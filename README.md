@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 24/02/17 | ruby | Use `refine` and `using` to turn monkey patches more secure
 | 24/02/17 | patterns | How to use [Presenters](https://nandovieira.com.br/usando-presenters-no-rails) on Rails
 | 23/02/17 | rspec | receive_message_chain('foo.bar.foobar')
 | 22/02/17 | rspec | stub_chain(:foo, :bar)
