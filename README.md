@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 01/03/17 | rails | Use `.pluck` to get an array with values of a column
 | 25/02/17 | ruby | Use `refine` and `using` to turn monkey patches more secure
 | 24/02/17 | patterns | How to use [Presenters](https://nandovieira.com.br/usando-presenters-no-rails) on Rails
 | 23/02/17 | rspec | receive_message_chain('foo.bar.foobar')
