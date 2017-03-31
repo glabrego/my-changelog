@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 31/03/17 | ruby | `*args` as an argument of a method will build an array with the arguments sent to the method
 | 24/03/17 | shell | `grep -v 'matcher'` for reverse grep
 | 17/03/17 | ruby | Use `flat_map` instead of `map` and `flatten` for enumerables
 | 10/03/17 | rails | Use `$rails_rake_task` to know if you are in a Rake task
