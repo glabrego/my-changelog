@@ -2,7 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
-| 16/04/17 | bash | Use `{}` to join output to pipe
+| 16/04/17 | shell | Use `{}` to join output to pipe
 | 06/04/17 | ruby | [The Safe Navigation Operator `&.`](http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/)
 | 31/03/17 | ruby | `*args` as an argument of a method will build an array with the arguments sent to the method
 | 24/03/17 | shell | `grep -v 'matcher'` for reverse grep
