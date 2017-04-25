@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 24/04/17 | javascript | [AJAX callbacks](http://api.jquery.com/jquery.ajax/)
 | 16/04/17 | shell | Use `{}` to join output to pipe
 | 06/04/17 | ruby | [The Safe Navigation Operator `&.`](http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/)
 | 31/03/17 | ruby | `*args` as an argument of a method will build an array with the arguments sent to the method
