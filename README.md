@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 09/05/17 | git | `git config --global push.default current` to always push to origin current local branch
 | 24/04/17 | javascript | [AJAX callbacks](http://api.jquery.com/jquery.ajax/)
 | 16/04/17 | shell | Use `{}` to join output to pipe
 | 06/04/17 | ruby | [The Safe Navigation Operator `&.`](http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/)
