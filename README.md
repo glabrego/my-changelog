@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 25/05/17 | shell | `ls | xargs -P10 -I{} git -C {} pull` to git pull all subdirectories in parallel
 | 19/05/17 | git | `git commit --amend` to avoid rebase on small changes
 | 09/05/17 | git | `git config --global push.default current` to always push to origin current local branch
 | 24/04/17 | javascript | [AJAX callbacks](http://api.jquery.com/jquery.ajax/)
