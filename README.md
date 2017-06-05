@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 05/06/17 | elixir | You can execute `.iex` archives with `iex` or `elixir` commands
 | 19/05/17 | git | `git commit --amend` to avoid rebase on small changes
 | 09/05/17 | git | `git config --global push.default current` to always push to origin current local branch
 | 24/04/17 | javascript | [AJAX callbacks](http://api.jquery.com/jquery.ajax/)
