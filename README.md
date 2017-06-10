@@ -3,6 +3,8 @@
 | Date | Category | Description |
 |------|----------|-------------|
 | 10/06/17 | rails | [Rails cache options](http://guides.rubyonrails.org/caching_with_rails.html)
+| 08/06/17 | vim | `vimdiff file1 file2` to show the diff between these two files
+| 06/06/17 | ruby | Gem `ruby-prof` to do code profiler on Rails
 | 05/06/17 | elixir | You can execute `.iex` archives with `iex` or `elixir` commands
 | 25/05/17 | shell | `ls | xargs -P10 -I{} git -C {} pull` to git pull all subdirectories in parallel
 | 19/05/17 | git | `git commit --amend` to avoid rebase on small changes
