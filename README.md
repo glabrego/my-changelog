@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 21/06/17 | rest | Simple but great explanation about [http verbs](http://www.restapitutorial.com/lessons/httpmethods.html)
 | 19/06/17 | rails | `rubocop -a $(git log --name-only --pretty=format: HEAD~1..HEAD)` to correct all cops on edited files
 | 10/06/17 | rails | [Rails cache options](http://guides.rubyonrails.org/caching_with_rails.html)
 | 08/06/17 | vim | `vimdiff file1 file2` to show the diff between these two files
