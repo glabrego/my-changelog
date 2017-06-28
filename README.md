@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 27/06/17 | docker | `docker inspect [container_name]` to get details about a certain container
 | 21/06/17 | git | A superset of [git tips and tricks](https://github.com/git-tips/tips)
 | 21/06/17 | rest | Simple but great explanation about [http verbs](http://www.restapitutorial.com/lessons/httpmethods.html)
 | 19/06/17 | rails | `rubocop -a $(git log --name-only --pretty=format: HEAD~1..HEAD)` to correct all cops on edited files
