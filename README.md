@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 22/11/17 | ruby | [Truffle Ruby](https://github.com/graalvm/truffleruby)
 | 16/11/17 | docker | `docker exec -i -t [container_name_or_id] /bin/bash` to run bash on a container
 | 23/10/17 | docker | `docker run -d -p 5432:5432 -e POSTGRES_USER=$1 -e POSTGRES_PASSWORD=$2 postgres` to run a postgres container with user and password
 | 27/06/17 | docker | `docker inspect [container_name]` to get details about a certain container
