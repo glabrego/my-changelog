@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 07/12/17 | ssh | `ssh-add -K ~/.ssh/[your_key]` to add your ssh key to Mac Keychain
 | 02/12/17 | Go | Use `gofmt -w` to format your Go files
 | 22/11/17 | ruby | [Truffle Ruby](https://github.com/graalvm/truffleruby)
 | 16/11/17 | docker | `docker exec -i -t [container_name_or_id] /bin/bash` to run bash on a container
