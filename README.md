@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 10/12/17 | patterns | [Singleton Pattern](https://ieftimov.com/singleton-pattern)
 | 07/12/17 | ssh | `ssh-add -K ~/.ssh/[your_key]` to add your ssh key to Mac Keychain
 | 02/12/17 | Go | Use `gofmt -w` to format your Go files
 | 22/11/17 | ruby | [Truffle Ruby](https://github.com/graalvm/truffleruby)
