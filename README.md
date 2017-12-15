@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 15/12/17 | patterns | [Object-Oriented Design Patterns in Life](http://www.sihui.io/design-patterns)
 | 14/12/17 | tests | Learn more about DAMP(Descriptive And Meaningful Phrases) based tests
 | 10/12/17 | patterns | [Singleton Pattern](https://ieftimov.com/singleton-pattern)
 | 07/12/17 | ssh | `ssh-add -K ~/.ssh/[your_key]` to add your ssh key to Mac Keychain
