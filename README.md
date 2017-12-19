@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 19/12/17 | rest | [Learn REST](http://www.restapitutorial.com) a greatful resource
 | 15/12/17 | patterns | [Object-Oriented Design Patterns in Life](http://www.sihui.io/design-patterns)
 | 14/12/17 | tests | Learn more about DAMP(Descriptive And Meaningful Phrases) based tests
 | 10/12/17 | patterns | [Singleton Pattern](https://ieftimov.com/singleton-pattern)
