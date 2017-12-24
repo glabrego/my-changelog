@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 24/12/17 | git | [What to do when things go wrong with git](https://github.com/k88hudson/git-flight-rules)
 | 24/12/17 | ruby | [Five Ruby Methods You Should Be Using](https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using)
 | 19/12/17 | rest | [Learn REST](http://www.restapitutorial.com) a greatful resource
 | 15/12/17 | patterns | [Object-Oriented Design Patterns in Life](http://www.sihui.io/design-patterns)
