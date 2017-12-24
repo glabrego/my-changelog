@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 24/12/17 | ruby | [Five Ruby Methods You Should Be Using](https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using)
 | 19/12/17 | rest | [Learn REST](http://www.restapitutorial.com) a greatful resource
 | 15/12/17 | patterns | [Object-Oriented Design Patterns in Life](http://www.sihui.io/design-patterns)
 | 14/12/17 | tests | Learn more about DAMP(Descriptive And Meaningful Phrases) based tests
