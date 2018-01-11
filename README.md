@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 11/01/18 | productivity | Mind dump your tasks every end day.
 | 08/01/18 | ruby | Gem [table_print](http://tableprintgem.com) for pretty print tables on console
 | 08/01/18 | security | Learn more about TicketGranting-Tickets(TGT) and Service Ticket(ST)
 | 03/01/18 | ruby | [Difference between Range#cover? and Range#include?](https://stackoverflow.com/questions/21608935/what-is-the-difference-between-rangeinclude-and-rangecover)
