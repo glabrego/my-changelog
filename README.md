@@ -2,6 +2,7 @@
 
 | Date | Category | Description |
 |------|----------|-------------|
+| 21/01/18 | go | [Error handling in Go](https://blog.golang.org/error-handling-and-go)
 | 11/01/18 | productivity | Mind dump your tasks every end day.
 | 08/01/18 | ruby | Gem [table_print](http://tableprintgem.com) for pretty print tables on console
 | 08/01/18 | security | Learn more about TicketGranting-Tickets(TGT) and Service Ticket(ST)
